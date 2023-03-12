@@ -42,7 +42,7 @@ submitbox.grid(row=5, columnspan=3, column=0, sticky="NSEW")
 
 def openAbout():
     pass
-    os.system("C:/Users/alber/OneDrive/Documents/ChickenCalculator/GUI/AboutUs.py")
+    os.system("Enter about me section here")
 
 aboutButton = tk.Button(frame, text="What is this?", command=openAbout)
 aboutButton.grid(row=6 , columnspan=3, column=0, sticky="NSEW")
